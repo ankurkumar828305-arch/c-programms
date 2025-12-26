@@ -1,0 +1,6 @@
+-----------HOW TO COMPARE A STRING--
+strcmp(a,"string")--is a function to compare two trings and to use it keep in mind that 
+scanf("%s",&a)-- to get the value 
+char a[20]--to define it 
+-----------HOW TO GIVE A STRING VALUE TO A VARIABLE--
+strcpy(a,"ankur sinha")--gives value to the variable 
